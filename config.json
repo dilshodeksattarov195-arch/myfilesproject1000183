@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservrocess",
+        "uuid": 747555,
+        "checksum": "srazjd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
